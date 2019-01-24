@@ -1,4 +1,4 @@
-token=process.env.token
+token=process.env.BOT_TOKEN
 owner=351366504068939777
 prefix=~
 game=Programming Music | GEKYUُME Here
