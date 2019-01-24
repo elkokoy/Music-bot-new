@@ -1,7 +1,6 @@
-"token": "process.env.BOT_TOKEN"
-"owner": "351366504068939777"
-"prefix": "~"
-"game": "Programming Music | GEKYUُME Here"
-"stayinchannel": "true"
-"songinstatus": "true"
-"token": "NTM3OTQ2ODU5NzA1MDczNjg0.DysqrA.F6B7Qej2BnOVjSjy9eCk63DpCKg"
+token=settings.token
+owner=351366504068939777
+prefix=~
+game= Programming Music | GEKYUُME Here
+stayinchannel=true
+token=settings.token
