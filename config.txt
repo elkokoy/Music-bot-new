@@ -4,4 +4,4 @@
 "game": "Programming Music | GEKYUُME Here"
 "stayinchannel": "true"
 "songinstatus": "true"
-"token": "process.env.BOT_TOKEN"
+"token": "NTM3OTQ2ODU5NzA1MDczNjg0.DysqrA.F6B7Qej2BnOVjSjy9eCk63DpCKg"
