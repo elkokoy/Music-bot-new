@@ -1,6 +1,6 @@
-token=process.env.BOT_TOKEN
-owner=351366504068939777
-prefix=~
-game=Programming Music | GEKYUُME Here
-stayinchannel=true
-songinstatus=true
+"token": "process.env.BOT_TOKEN"
+"owner": "351366504068939777"
+"prefix": "~"
+"game": "Programming Music | GEKYUُME Here"
+"stayinchannel": "true"
+"songinstatus": "true"
